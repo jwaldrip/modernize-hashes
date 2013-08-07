@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'modernize-hashes'
+ModernizeHashes.run!
