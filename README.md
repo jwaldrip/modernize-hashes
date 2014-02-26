@@ -1,6 +1,6 @@
 # Modernize::Hashes
 
-TODO: Write a gem description
+A command line tool that converts all your hashes from `:really_old => 'style'` to `the_new: 'hotness'`!!!
 
 ## Installation
 
