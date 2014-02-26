@@ -18,7 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just run it:
+```sh
+$ modernize-hashes
+```
 
 ## Contributing
 
