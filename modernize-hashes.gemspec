@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Modernize::Hashes::VERSION
   spec.authors       = ["Jason Waldrip"]
   spec.email         = ["jason@waldrip.net"]
-  spec.description   = "Modernizes all hashes to be Ruby > 1.9 style hashes"
+  spec.description   = "Modernizes all the hashes"
   spec.summary       = "Modernizes all hashes to be Ruby > 1.9 style hashes"
   spec.homepage      = "https://github.com/jwaldrip/modernize-hashes"
   spec.license       = "MIT"
@@ -19,5 +19,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "bundler", "~> 1.3"
-  spec.add_development_dependency "rake"
+  spec.add_development_dependency "rake", "~> 10.3"
 end
